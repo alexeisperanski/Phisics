@@ -55,8 +55,9 @@ v1 = tablIn(N)
 print("Все значения v2\n")
 v2 = tablIn(N)
 
+p10x = []
 for i in range(N):
-    p10x = []
+    pass
 sigp = (p1+p2)/p10 - 1
 
 
